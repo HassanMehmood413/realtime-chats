@@ -5,13 +5,6 @@ import { getAuth } from "firebase/auth";  // Import for Authentication
 
 // Your Firebase configuration (from Firebase Console)
 const firebaseConfig = {
-  apiKey: "AIzaSyDFQ_AgD7CR46bedd042WnI9HmrGjwoTbA",
-  authDomain: "rana-chad-app.firebaseapp.com",
-  projectId: "rana-chad-app",
-  storageBucket: "rana-chad-app.firebasestorage.app",
-  messagingSenderId: "82995865254",
-  appId: "1:82995865254:web:f5a76b0197315f3a1c7667",
-  measurementId: "G-S6R4R90L84"
 };
 
 // Initialize Firebase
